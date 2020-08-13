@@ -1,5 +1,5 @@
 # resume-generator
-
+https://xmliszt.github.io/resume-generator/#/ 
 ## Project setup
 ```
 npm install
