@@ -1,5 +1,9 @@
 # resume-generator
 https://xmliszt.github.io/resume-generator/#/ 
+
+Test Account\
+username: test@mail.com\
+password: 123456
 ## Project setup
 ```
 npm install
